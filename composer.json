@@ -1,0 +1,13 @@
+{
+	"autoload": {
+		"psr-4": {
+			"BasicSearch\\": "app/BasicSearch"
+		}
+	},
+	"require": {
+		"php-ds/php-ds": "^1.2"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^6.4"
+	}
+}
